@@ -1,3 +1,3 @@
 # Snake
 
-Simple snake game written in C#
+Prosta gra napisana w C#
